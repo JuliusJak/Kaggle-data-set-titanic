@@ -62,4 +62,6 @@ Detta betydde att jag använde mig av "Pclass", "Sex", "Age", SibSp", "parch", "
 
 Sen var det bara att göra min REST API.
 
-Lite mer information till varje graf finns i 
+Lite mer information till varje graf finns i min notebook
+https://github.com/JuliusJak/Kaggle-data-set-titanic/blob/main/titanic%20data%20set/titanic-survivalrate-testing.ipynb
+
