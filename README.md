@@ -13,14 +13,23 @@ inputa en persons information och få tillbaka ifall den personen överlevde ell
 Exempel på input:
 {
     "features": {
+    
         "Pclass": 1,
+        
         "Name": "miss jackson",
+        
         "Sex": "female",
+        
         "Age": 20,
+        
         "SibSp": 0,
+        
         "Parch": 1,
+        
         "Fare": 7.2292,
+        
         "Embarked": "c"
+        
     }
 }
 
